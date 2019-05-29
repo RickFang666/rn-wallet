@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0"
+  },
+  "assetBundlePatterns": [
+    "src/components/BackgroundImage/*",
+    "src/components/HomeBackgroundImage/*"
+  ],
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "cover"
+  },
+}

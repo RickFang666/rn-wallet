@@ -1,0 +1,11 @@
+{
+  "DEBUG": false,
+  "EXCHANGE_API_URL": "http://120.79.25.109/api/v1",
+  "EXCHANGE_WEBSOCKET_URL": "ws://120.79.25.109/streaming",
+  "PRODUCTS_API_URL": "http://120.79.25.109:8080/",
+  "BLOCKCYPHER_TOKEN": "7aa78ae562e8452a8b7114b900f08071",
+  "COIN_TYPES": {
+    "BTC": "BTC",
+    "ETH": "ETH"
+  }
+}

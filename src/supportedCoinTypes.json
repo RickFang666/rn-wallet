@@ -1,0 +1,11 @@
+{
+  "trio": {
+    "name": "TRIO"
+  },
+  "btc": {
+    "name": "BTC"
+  },
+  "eth": {
+    "name": "ETH"
+  }
+}
